@@ -1,0 +1,49 @@
+# Floqer's Assignment for Software Dev Internship Role
+
+Welcome to the repository for the dynamic web application developed for a software development internship role at Floqer!
+
+## Description
+
+This project showcases proficiency in React.js, TypeScript, and data visualization. It includes features such as sortable tables, line graph analytics, and a chat app integrating OpenAI's LLMs.
+
+## Features
+
+- **Sortable Tables:** Users can sort the data table by year, total jobs, or average salary.
+- **Line Graph Analytics:** Visual representation of salary data changes from 2020 to 2024.
+- **Chat App:** Integration with OpenAI's LLMs to provide insights based on user queries.
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/floqer-assignment.git
+   ```
+
+2. Install dependencies:
+
+   ```bash
+   cd floqer-assignment
+   npm install
+   ```
+
+3. Start the development server:
+
+   ```bash
+   npm start
+   ```
+
+4. Open [http://localhost:3000](http://localhost:3000) to view the application in your browser.
+
+## Usage
+
+- Navigate through the application to explore the salary data, analytics, and chat functionality.
+- Click on a row in the main table to view aggregated job titles and their respective job counts for the selected year.
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit pull requests or open issues for any enhancements or bug fixes.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
